@@ -1,0 +1,20 @@
+{
+    "attributes": [
+      {
+        "trait_type": "dates",
+        "value": "2022/05/28"
+      },
+      {
+        "trait_type": "groups",
+        "value": "Breakouts!"
+      },
+      {
+        "trait_type" :"contents",
+        "value":"Let's use DEX"
+     }
+    ],
+    "description": "Breakouts!（https://twitter.com/Break_Outs）の講演会参加NFTです。1walletあたり1回のみmint可能です ",
+    "image": "ipfs://QmW6ugf71Zx8tzbaCWmXKsA3h3oJXbgJfr5ERqA2Jdbur7",
+    "name": "Breakouts!2022/05/28-NFT"
+  }
+  
